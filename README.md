@@ -52,6 +52,7 @@ BuyWise combines three layers of decision support:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```md
 
 Future Improvements
 	•	Real marketplace data integration
