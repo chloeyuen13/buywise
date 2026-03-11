@@ -52,3 +52,14 @@ BuyWise combines three layers of decision support:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+Future Improvements
+	•	Real marketplace data integration
+	•	Promotion timing prediction
+	•	Brand and ecosystem preference modeling
+	•	LLM-generated shopping explanations
+	•	Personalized recommendations based on user history
+
+Repository
+
+https://github.com/chloeyuen13/buywise
